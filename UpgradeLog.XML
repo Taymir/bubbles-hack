@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BubblesHack">
+</Property><Property Name="Solution File" Value="D:\U7\Documents\MyProjects\2009\BubblesHack\BubblesHack.sln">
+</Property><Property Name="User Options File" Value="D:\U7\Documents\MyProjects\2009\BubblesHack\BubblesHack.suo">
+</Property><Property Name="Date" Value="21 августа 2011 г.">
+</Property><Property Name="Time" Value="19:37">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BubblesHack.sln" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\BubblesHack.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BubblesHack.suo" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\BubblesHack.suo">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="BubblesHack.csproj" Description="Project file successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\BubblesHack.csproj">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="BubblesHack.csproj.user" Description="Project user file successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\BubblesHack.csproj.user">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="BubbleGrid.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\BubbleGrid.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Form1.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Form1.Designer.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Form11.Designer.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Form11.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="NativeWin32.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\NativeWin32.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Pointer.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Pointer.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Pointer.Designer.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Pointer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Program.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="ProgressForm.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\ProgressForm.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="ProgressForm.Designer.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\ProgressForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Settings.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Settings.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="SettingsForm.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\SettingsForm.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="SettingsForm.Designer.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\SettingsForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Solvers\FirstChoiceSolver.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Solvers\FirstChoiceSolver.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Solvers\HundredTimesSolver.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Solvers\HundredTimesSolver.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Solvers\PersistantSolver.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Solvers\PersistantSolver.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Solvers\MCTSSolver.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Solvers\MCTSSolver.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Solvers\RandomSolver.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Solvers\RandomSolver.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Solvers\SimpleSolver.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Solvers\SimpleSolver.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Solvers\Solver.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Solvers\Solver.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Solvers\SortColourRandomSolver.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Solvers\SortColourRandomSolver.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Solvers\TabuColourRandomSolver.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Solvers\TabuColourRandomSolver.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Solvers\TabuDoubleColourRandomSolver.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Solvers\TabuDoubleColourRandomSolver.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Visualizer.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Visualizer.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Visualizer.Designer.cs" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Visualizer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="app.config" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Properties\Settings.settings" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="icon.ico" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\icon.ico">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Form1.resx" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Pointer.resx" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Pointer.resx">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="ProgressForm.resx" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\ProgressForm.resx">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Properties\Resources.resx" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="SettingsForm.resx" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\SettingsForm.resx">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="Visualizer.resx" Description="File successfully backed up as D:\U7\Documents\MyProjects\2009\BubblesHack\Backup\Visualizer.resx">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="BubblesHack.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BubblesHack" Source="BubblesHack.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BubblesHack.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BubblesHack.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BubblesHack" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="BubblesHack" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
